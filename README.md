@@ -7,17 +7,24 @@ Integrantes:
 Engenharia de Software
 
   •	Levantamento de requisitos: Usuário (Funcionais e não funcionais)
+  
   •	Levantamento de requisitos: Sistema (Funcionais e não funcionais)
+  
   •	Histórias de Usuário e critérios de aceitação
   
 •UML:
   o	Diagrama de Classes
+  
   o	Diagrama de caso de uso
+  
   o	Diagrama de atividades
   
 •	Modelagem de Banco de Dados:
+
   o	Conceitual
+  
   o	Lógica
+  
   o	Física
   
 •	Gerenciamento de Projeto:
