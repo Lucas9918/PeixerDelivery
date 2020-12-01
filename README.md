@@ -13,6 +13,7 @@ Engenharia de Software
   •	Histórias de Usuário e critérios de aceitação
   
 •UML:
+
   o	Diagrama de Classes
   
   o	Diagrama de caso de uso
