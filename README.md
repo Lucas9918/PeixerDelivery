@@ -3,6 +3,7 @@ Responsável por informatizar a Peixer Delivery.
 Integrantes:
 
 1.	Lucas Vinicius Peixer Vieira
+
 Engenharia de Software
   •	Levantamento de requisitos: Usuário (Funcionais e não funcionais)
   •	Levantamento de requisitos: Sistema (Funcionais e não funcionais)
