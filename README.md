@@ -2,11 +2,11 @@
 Repositório da Matéria de Engenharia de Software<br>
 Responsável por informatizar a Peixer Delivery.<br>
 
-##Integrantes:
+## Integrantes:
 
 1.	Lucas Vinicius Peixer Vieira
 
-##Engenharia de Software
+## Engenharia de Software
 
 • Controle e Versão: Git (Plataformas GitHub)
   
