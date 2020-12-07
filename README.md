@@ -25,6 +25,8 @@ Responsável por informatizar a Peixer Delivery.<br>
 
 • Controle de Tarefas e Planejamentos (Kanban);
 
+<a href="https://github.com/Lucas9918/PeixerDelivery/projects"> Controle de Tarefas e Planejamentos:(  Controle de Tarefas e Planejamentos)</a>
+
 • <a href="https://github.com/grupo06-PI/grupo06/blob/master/EngenhariaSoftware/Requisitos%20do%20usu%C3%A1rio%20Vers%C3%A3o%201.13.09.doc">Levantamento de requisitos: Usuário (Funcionais e não funcionais)</a> ;
 
 • <a href="https://github.com/grupo06-PI/grupo06/blob/master/EngenhariaSoftware/Product%20Backlog%20-%20Pastelaria%20do%20Z%C3%A9.doc">Histórias de Usuário e critérios de aceitação</a>;
