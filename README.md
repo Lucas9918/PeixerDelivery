@@ -4,7 +4,7 @@
 Repositório da Matéria de Engenharia de Software<br>
 Responsável por informatizar a Peixer Delivery.<br>
 
-## Integrantes:
+## Integrante:
 
 Lucas Vinicius Peixer Vieira
 
