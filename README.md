@@ -32,7 +32,7 @@ Responsável por informatizar a Peixer Delivery.<br>
 
   <a href="https://github.com/Lucas9918/PeixerDelivery/blob/Documentacao/Product%20Backlog.pdf">Histórias de Usuário e critérios de aceitação</a>;
 
-• <a href="https://github.com/grupo06-PI/grupo06/blob/master/EngenhariaSoftware/UML%20-%20Diagrama%20Classe.png">Diagrama de Classes</a>;
+• <a href="https://github.com/Lucas9918/PeixerDelivery/blob/Documentacao/UML%20-%20Diagrama%20Classe.pdf">Diagrama de Classes</a>;
 
 • <a href="https://github.com/Lucas9918/PeixerDelivery/blob/Documentacao/Diagrama%20de%20Caso%20de%20Uso.pdf">Diagrama de caso de uso</a>
   
