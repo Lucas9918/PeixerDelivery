@@ -6,11 +6,11 @@ Responsável por informatizar a Peixer Delivery.<br>
 
 ## Integrantes:
 
-1.	Lucas Vinicius Peixer Vieira
+Lucas Vinicius Peixer Vieira
 
 ## Engenharia de Software
 
-• Controle e Versão: Git (Plataformas GitHub)
+## Controle e Versão: Git (Plataformas GitHub)
   
 • Concepção do Sistema (PDF);
 
@@ -28,7 +28,7 @@ Responsável por informatizar a Peixer Delivery.<br>
 
 • <a href="https://github.com/Lucas9918/PeixerDelivery/blob/Documentacao/Requisitos%20Funcionaris%20e%20N%C3%A3o%20Funcionais.pdf">Funcionais e não funcionais: Usuário (Funcionais e não funcionais)</a>
 
-• <a href="https://github.com/Lucas9918/PeixerDelivery/blob/Documentacao/Sprints.pdf">Histórias de Usuário e critérios de aceitação(Sprint)</a>;
+• <a href="https://github.com/Lucas9918/PeixerDelivery/blob/Documentacao/Sprints.pdf">Histórias de Usuário e critérios de aceitação (Sprint)</a>;
 
 • <a href="https://github.com/Lucas9918/PeixerDelivery/blob/Documentacao/Product%20Backlog.pdf">Histórias de Usuário e critérios de aceitação (Product Backlog)</a>;
 
