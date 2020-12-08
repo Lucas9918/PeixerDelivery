@@ -34,5 +34,5 @@ Responsável por informatizar a Peixer Delivery.<br>
 
 • <a href="https://github.com/grupo06-PI/grupo06/blob/master/EngenhariaSoftware/UML%20-%20Diagrama%20Classe.png">Diagrama de Classes</a>;
 
-• <a href="https://github.com/Lucas9918/PeixerDelivery/blob/Documentacao/UML%20-%20Diagrama%20de%20Caso%20de%20Uso.pdf">Diagrama de caso de uso</a>
+• <a href="https://github.com/Lucas9918/PeixerDelivery/blob/Documentacao/Diagrama%20de%20Caso%20de%20Uso.pdf">Diagrama de caso de uso</a>
   
