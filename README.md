@@ -4,7 +4,7 @@
 Repositório da Matéria de Engenharia de Software<br>
 Responsável por informatizar a Peixer Delivery.<br>
 
-## Integrantes:
+## Integrante:
 
 Lucas Vinicius Peixer Vieira
 
@@ -12,7 +12,7 @@ Lucas Vinicius Peixer Vieira
 
 ## Controle e Versão: Git (Plataformas GitHub)
   
-• Concepção do Sistema (PDF);
+• <a href="https://github.com/Lucas9918/PeixerDelivery/blob/master/Peixer%20Delivery%20-%20Concep%C3%A7%C3%A3o.pdf">Concepção do Sistema (PDF)(Concepção do Sistema (PDF))</a>
 
 • <a href="https://github.com/Lucas9918/PeixerDelivery/blob/Documentacao/Aplicativo%20Delivery.pdf">Prototipação de Telas Aplicativo:(Prototipação de Telas Aplicativo)</a>
 
